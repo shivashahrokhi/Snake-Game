@@ -1,0 +1,27 @@
+{
+  "cell_size": 30,
+  "back_color": [55, 55, 55],
+  "fruit_color": [255, 255, 0],
+  "block_color": [255, 255, 255],
+  "block_cells": [],
+  "sx": 30,
+  "sy": 50,
+  "table_size": 24,
+  "height": 800,
+  "width": 800,
+  "snakes": [
+    {
+      "keys": {
+        "w": "UP",
+        "s": "DOWN",
+        "a": "LEFT",
+        "d": "RIGHT"
+      },
+      "sx": 0,
+      "sy": 0,
+      "color": [255, 0, 0],
+      "head_color": [125,0,0],
+      "direction": "RIGHT"
+    }
+  ]
+}
